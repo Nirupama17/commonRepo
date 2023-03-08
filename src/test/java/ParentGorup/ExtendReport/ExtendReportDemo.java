@@ -54,7 +54,7 @@ public class ExtendReportDemo {
 
 		extend.flush();
 		System.out.println("Done");
-
+		System.out.println("Adding another Done Done");
 	}
 
 }
